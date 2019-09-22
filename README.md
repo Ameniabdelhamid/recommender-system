@@ -29,7 +29,7 @@ This project aims to build an integrated recommender system with versatile featu
 - Number of products : 2,441,053
 
 ### Tools
-- Python, Myria, AWS
+- Python, Myria, AWS, TensorFlow
 
 
 ### Steps
